@@ -24,7 +24,7 @@ data = {
         "Quarter to 5 (unnamed)", "Battle Mountain", "Mt Lady Washington",
         "South Boulder Peak", "Mt Lincoln", "Mt Bross", "Mt Cameron",
         "Mt Democrat", "Grays Peak", "Torrey’s Peak", "The Sawtooth",
-        "Mt Bierstadt", "Mt Blue Sky"
+        "Mt Bierstadt", "Mt Blue Sky", "Mt Elbert", "Longs Peak"
     ],
     
     "Elevation_ft": [
@@ -33,7 +33,7 @@ data = {
         12290, 12044, 13277,
         8549, 14295, 14178, 14238,
         14152, 14278, 14267, 13786,
-        14065, 14265
+        14065, 14265, 14440, 14259
     ],
     
     "Date": [
@@ -42,7 +42,7 @@ data = {
         "2024-06-19", "2024-06-21", "2024-06-21",
         "2024-06-22", "2024-06-28", "2024-06-28", "2024-06-28",
         "2024-06-28", "2024-07-04", "2024-07-04", "2024-07-12",
-        "2024-07-12", "2024-07-12"
+        "2024-07-12", "2024-07-12", "2024-07-19", "2024-07-20"
     ]
 }
 
